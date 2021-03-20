@@ -1,0 +1,17 @@
+C:\Desenvolvimento\projeto1\systreino\treino\bin\Debug\netcoreapp3.1\treino.exe
+C:\Desenvolvimento\projeto1\systreino\treino\bin\Debug\netcoreapp3.1\treino.deps.json
+C:\Desenvolvimento\projeto1\systreino\treino\bin\Debug\netcoreapp3.1\treino.runtimeconfig.json
+C:\Desenvolvimento\projeto1\systreino\treino\bin\Debug\netcoreapp3.1\treino.runtimeconfig.dev.json
+C:\Desenvolvimento\projeto1\systreino\treino\bin\Debug\netcoreapp3.1\treino.dll
+C:\Desenvolvimento\projeto1\systreino\treino\bin\Debug\netcoreapp3.1\treino.pdb
+C:\Desenvolvimento\projeto1\systreino\treino\obj\Debug\netcoreapp3.1\treino.csprojAssemblyReference.cache
+C:\Desenvolvimento\projeto1\systreino\treino\obj\Debug\netcoreapp3.1\treino.FormLogin.resources
+C:\Desenvolvimento\projeto1\systreino\treino\obj\Debug\netcoreapp3.1\treino.csproj.GenerateResource.cache
+C:\Desenvolvimento\projeto1\systreino\treino\obj\Debug\netcoreapp3.1\treino.AssemblyInfoInputs.cache
+C:\Desenvolvimento\projeto1\systreino\treino\obj\Debug\netcoreapp3.1\treino.AssemblyInfo.cs
+C:\Desenvolvimento\projeto1\systreino\treino\obj\Debug\netcoreapp3.1\treino.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\projeto1\systreino\treino\obj\Debug\netcoreapp3.1\treino.dll
+C:\Desenvolvimento\projeto1\systreino\treino\obj\Debug\netcoreapp3.1\treino.pdb
+C:\Desenvolvimento\projeto1\systreino\treino\obj\Debug\netcoreapp3.1\treino.genruntimeconfig.cache
+C:\Desenvolvimento\projeto1\systreino\treino\obj\Debug\netcoreapp3.1\treino.FormPrincipal.resources
+C:\Desenvolvimento\projeto1\systreino\treino\obj\Debug\netcoreapp3.1\treino.FormVazio.resources
